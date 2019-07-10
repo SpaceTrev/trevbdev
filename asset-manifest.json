@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a15c4edf.chunk.css",
+    "main.js": "/static/js/main.17218fa7.chunk.js",
+    "main.js.map": "/static/js/main.17218fa7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.bb27b9fa.chunk.css": "/static/css/2.bb27b9fa.chunk.css",
+    "static/js/2.b59869a0.chunk.js": "/static/js/2.b59869a0.chunk.js",
+    "static/js/2.b59869a0.chunk.js.map": "/static/js/2.b59869a0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2a6c3c9d1cc454130d33dec7598a633b.js": "/precache-manifest.2a6c3c9d1cc454130d33dec7598a633b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.bb27b9fa.chunk.css.map": "/static/css/2.bb27b9fa.chunk.css.map",
+    "static/css/main.a15c4edf.chunk.css.map": "/static/css/main.a15c4edf.chunk.css.map",
+    "static/media/friendfinder.mov": "/static/media/friendfinder.e5f8bc61.mov",
+    "static/media/mssdemo.mov": "/static/media/mssdemo.fcb70bed.mov",
+    "static/media/tface.jpg": "/static/media/tface.5a5994c1.jpg"
+  }
+}
