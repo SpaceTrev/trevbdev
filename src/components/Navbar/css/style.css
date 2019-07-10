@@ -1,0 +1,35 @@
+a.navlink {
+    text-decoration: none !important;
+    color: white;
+}
+a.navlink:hover{
+    color: rgb(127, 150, 255)
+}
+a.navlink:active {
+    color: rgb(45, 64, 148)
+}
+a.navlink:current {
+    color: hotpink;
+}
+.menu {
+    margin-left: auto;
+}
+.iconz {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+button.navbar-toggler {
+    border: none !important;
+}
+button.navbar-toggler:hover {
+    border: none !important;
+}
+button.navbar-toggler:focus {
+    border: none !important;
+    outline: none !important;
+}
+@media screen and (max-width: 767px) {
+    .menu {
+        text-align: center;
+    }
+}

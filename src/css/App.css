@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+.content {
+  position: absolute;
+  background-color: aquamarine;
+  background-image: linear-gradient(125deg, #07BDEA, #AAD4D1, #B10AF9);
+  background-size: auto;
+  min-height: 120% !important;
+  min-width: 100%;
+  /* overflow-x: scroll; */
+}
+hr {
+	border-color: #fff;
+}
+
+.gsap-btn {
+	background-color: #73b102;
+	color: #fff;
+}
+
+.gsap-btn:hover,
+.gsap-btn:active,
+.gsap-btn:focus {
+	background-color: #88ce02;
+}
+
+.media-body {
+	color: #333;
+}
+
+.card-element {
+	opacity: 0;
+	visibility: hidden;
+}
+

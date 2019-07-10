@@ -1,0 +1,170 @@
+.listgroup {
+  margin-top: -15px;
+  margin-bottom: -15px;
+}
+.headshot {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 0.5rem;
+  border-color: purple !important; 
+}
+.cardTitle {
+  margin-bottom: 7px;
+}
+.cardText2 {
+  font-size: 22px;
+  margin-bottom: 7px;
+}
+.picsTest {
+  position: absolute;
+  height: auto;
+  max-width: 100%;
+  max-height: 80%;
+  top: 0;
+  left: 0;
+  /* margin-bottom: 10px; */
+}
+.btnSubmit {
+  width: 80px;
+}
+.bkSide {
+  position: relative;
+}
+.btnBack {
+  /* position: absolute; */
+  /* margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  bottom: 0; */
+  height: 50px;
+  width: 100px;
+  bottom: 0 !important;
+  position: absolute;
+  left: 35%;
+  margin-left: -250px;
+  top: 100%;
+  margin-top: -50px;
+  /* margin-right: 60%; */
+}
+.info {
+  font-size: 16px;
+}
+/* .cardfront {
+  max-height: 233px;
+} */
+div.flippy-card.flippy-front {
+  padding: 10px;
+}
+
+/* @media only screen and (max-width: 1199px) {
+
+}  */
+@media only screen and (max-width: 775px) {
+  .cardText {
+    font-size: 16px;
+  }
+  .cardTitle {
+    font-size: 34px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .contact-txt {
+    font-size: 12px ;
+  }
+}
+@media only screen and (max-width: 540px) {
+  .cardText {
+    font-size: 14px;
+  }
+  .cardTitle {
+    font-size: 28px;
+  }
+  #backTitle {
+    margin-top: -15px;
+  }
+  .headshot {
+    height: 108px;
+    width: 108px;
+    border-radius: 50%;
+    border: 0.5rem;
+    border-color: rgba(192, 192, 192, 0.5);
+  }
+  button.flip-for-face {
+    margin-bottom: 10px !important;
+    margin-top: 6px !important;
+  }
+  .cardText2 {
+    margin-bottom: 4px !important;
+  }
+  .links {
+    display: none !important;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .cardText {
+    font-size: 12px;
+  }
+  .cardTitle {
+    font-size: 22px;
+  }
+  .contact-txt {
+    font-size: 12px ;
+  }
+  .contact-item {
+    padding: 4px !important;
+  }
+  .contact-icons {
+    padding: 4px !important;
+  }
+  #backTitle {
+    margin-top: 0px;
+  }
+}
+@media only screen and (max-width: 380px) {
+
+  .contact-item {
+    padding: 0px !important;
+  }
+  .contact-icons {
+    padding: 2px !important;
+  }
+  .cardText {
+    font-size: 10px;
+  }
+  .cardTitle {
+    font-size: 18px;
+  }
+  .contact-txt {
+    font-size: 10px ;
+  }
+}
+@media only screen and (max-width: 320px) {
+
+  .contact-item {
+    padding: 0px !important;
+  }
+  .contact-icons {
+    padding: 2px !important;
+  }
+  .cardText {
+    font-size: 8px;
+  }
+  .cardTitle {
+    font-size: 12px;
+  }
+  .contact-txt {
+    font-size: 8px ;
+  }
+}
+
+/* @media only screen and (max-width: 440px) {
+    .cardText {
+      font-size: 10px;
+    }
+    .cardTitle {
+      font-size: 16px;
+    }
+  }
+   */
